@@ -1,0 +1,1 @@
+const e={key:"v-8daa1a0e",path:"/",title:"Blog",lang:"zh-CN",frontmatter:{lang:"zh-CN",title:"Blog",description:"\u95F2\u4EBABlog"},excerpt:"",headers:[{level:2,title:"Daily schedule",slug:"daily-schedule",children:[]}],git:{updatedTime:165193565e4,contributors:[{name:"yqiu",email:"qiu5630@163.com",commits:3}]},filePathRelative:"README.md"};export{e as data};

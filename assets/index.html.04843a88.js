@@ -1,0 +1,1 @@
+import{_ as e,o as t,a,b as c,e as o}from"./app.60b2f4e8.js";const r={},s={id:"react-\u6587\u6863",tabindex:"-1"},_=c("a",{class:"header-anchor",href:"#react-\u6587\u6863","aria-hidden":"true"},"#",-1),n=o(" React \u6587\u6863."),d=[_,n];function i(h,f){return t(),a("h1",s,d)}var x=e(r,[["render",i],["__file","index.html.vue"]]);export{x as default};

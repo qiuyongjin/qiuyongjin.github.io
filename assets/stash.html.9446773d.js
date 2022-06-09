@@ -1,0 +1,12 @@
+import{_ as a,r as e,o as t,a as o,b as s,d as c,F as r,c as l,e as p}from"./app.60b2f4e8.js";const i={},h=l(`<h1 id="stash" tabindex="-1"><a class="header-anchor" href="#stash" aria-hidden="true">#</a> stash</h1><blockquote><p>git stash \u6682\u65F6\u6401\u7F6E\uFF08\u6216\u5B58\u50A8\uFF09\u60A8\u5BF9\u5DE5\u4F5C\u526F\u672C\u6240\u505A\u7684\u66F4\u6539\uFF0C\u4EE5\u4FBF\u60A8\u53EF\u4EE5\u5904\u7406\u5176\u4ED6\u5185\u5BB9\uFF0C\u7136\u540E\u7A0D\u540E\u518D\u56DE\u6765\u91CD\u65B0\u5E94\u7528\u5B83\u4EEC\u3002 git stash temporarily shelves (or stashes) changes you&#39;ve made to your working copy so you can work on something else, and then come back and re-apply them later on.</p></blockquote><div class="language-bash ext-sh line-numbers-mode"><pre class="language-bash"><code><span class="token comment"># \u67E5\u770B</span>
+<span class="token function">git</span> stash list
+
+<span class="token comment"># \u4FDD\u5B58</span>
+<span class="token function">git</span> stash save <span class="token string">&#39;message&#39;</span>
+
+<span class="token comment"># \u6062\u590D\u5E76\u5220\u9664</span>
+<span class="token function">git</span> stash pop stash@<span class="token punctuation">{</span><span class="token variable">$num</span><span class="token punctuation">}</span>
+
+<span class="token comment"># \u5220\u9664\u6240\u6709\u7F13\u5B58\u7684stash</span>
+<span class="token function">git</span> stash <span class="token function">clear</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br></div></div><h3 id="\u53C2\u8003" tabindex="-1"><a class="header-anchor" href="#\u53C2\u8003" aria-hidden="true">#</a> \u53C2\u8003</h3>`,4),m={href:"https://www.cnblogs.com/zndxall/archive/2018/09/04/9586088.html",target:"_blank",rel:"noopener noreferrer"},u=p("https://www.cnblogs.com/zndxall/archive/2018/09/04/9586088.html");function b(d,k){const n=e("ExternalLinkIcon");return t(),o(r,null,[h,s("p",null,[s("a",m,[u,c(n)])])],64)}var g=a(i,[["render",b],["__file","stash.html.vue"]]);export{g as default};

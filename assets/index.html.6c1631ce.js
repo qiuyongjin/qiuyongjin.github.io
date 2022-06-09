@@ -1,0 +1,1 @@
+import{_ as e,o as a,a as t,b as r,e as o}from"./app.60b2f4e8.js";const s={},_={id:"bar-\u6587\u6863",tabindex:"-1"},c=r("a",{class:"header-anchor",href:"#bar-\u6587\u6863","aria-hidden":"true"},"#",-1),n=o(" Bar \u6587\u6863."),d=[c,n];function i(h,f){return a(),t("h1",_,d)}var x=e(s,[["render",i],["__file","index.html.vue"]]);export{x as default};

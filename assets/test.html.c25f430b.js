@@ -1,0 +1,1 @@
+const t={key:"v-13694d70",path:"/ts/test.html",title:"Test",lang:"zh-CN",frontmatter:{lang:"zh-CN",title:"Test",description:"TypeScript \u6587\u6863"},excerpt:"",headers:[],git:{updatedTime:1651663616e3,contributors:[{name:"yqiu",email:"qiu5630@163.com",commits:1}]},filePathRelative:"ts/test.md"};export{t as data};
